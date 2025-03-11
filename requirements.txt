@@ -1,0 +1,12 @@
+selenium==4.15.2
+webdriver-manager==4.0.1
+plyer==2.1.0
+pytz==2023.3.post1
+python-dotenv==1.0.0
+requests
+torch
+transformers
+opencv-python
+numpy
+Pillow
+praw==7.7.1

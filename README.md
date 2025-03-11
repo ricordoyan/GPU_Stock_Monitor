@@ -149,5 +149,4 @@ This project was inspired by research papers:
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 =======
-# GPU_Stock_Monitor
->>>>>>> ba938ec2b55a45dcd30e27e90b5290b8e4c79c78
+

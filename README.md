@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GPU Stock Monitor
 
 A comprehensive RTX 5080 and 5090 GPU stock tracking application with visual language model capabilities and autonomous AI agent integration.
